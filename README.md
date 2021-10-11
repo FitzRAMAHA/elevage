@@ -1,3 +1,7 @@
-Il ne contient pas grand chose.
+Il ne contient pas grand chose ^^
 
-un première modif ^^
+une première modif ^^ avec un deuxième smiley
+
+une deuxième modif
+
+ume troisième modif pour tester le git push
