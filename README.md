@@ -10,4 +10,4 @@ une quatrième modif faite de github pour tester le git pull
 
 Un commit sur la branch bugfix
 
-On va créer un conflit "main"
+on tente de créer un conflit "bugfix"
