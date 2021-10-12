@@ -9,3 +9,5 @@ une troisième modif pour tester le git push
 une quatrième modif faite de github pour tester le git pull
 
 Un commit sur la branch bugfix
+
+On tente de créer un conflit "bugfix"
