@@ -1,0 +1,11 @@
+#ignore all txt files
+*.txt
+
+#except for the important txt file
+!important.txt
+
+#ignore the vendors repertory/file
+vendors/
+
+#Only ignore pdf files that are in "uploads" repertory/file
+uploads/**/*.pdf
