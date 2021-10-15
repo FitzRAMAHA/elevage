@@ -13,3 +13,5 @@ Un commit sur la branch bugfix
 on tente de créer un conflit "bugfix"
 
 Tantative de rebase sur la branche bugfix. Nous allons voir si le gitignore que nous allons commit sur le master va se rebase sur bugfix.
+
+^^ .!
