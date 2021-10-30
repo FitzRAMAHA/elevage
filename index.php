@@ -1,9 +1,11 @@
 <?php
 
 $users = [
-	['user' => 'Sera', 'role' => 'Gérante'],
-	['user' => 'Iary', 'role' => 'Agent de saisi'],
-	['user' => 'Solo', 'role' => 'Eleveur'],
+	['user' => 'Sera', 'role' => 'Gérante', 'accessLevel' => 'normalUser'],
+	['user' => 'Iary', 'role' => 'Agent de saisi', 'accessLevel' => 'normalUser'],
+	['user' => 'Solo', 'role' => 'Eleveur', 'accessLevel' => 'normalUser'],
+	['user' => 'Fitz', 'role' => 'Developpeur', 'accessLevel' => 'admin'],
+	['user' => 'Tiny', 'role' => 'Manager', 'accessLevel' => 'moderator'],
 ];
 
 $chikenNumber = [];
